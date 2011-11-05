@@ -1,0 +1,3 @@
+This is a program which can play the board game Battleship.  myAlgorithm.js
+contains a function which chooses a square to fire upon next.  Open up
+battleship.htm to try it out.
